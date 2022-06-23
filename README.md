@@ -8,4 +8,5 @@ Task 6. Welcome. This script creates a directory named my_first_directory in the
 Task 7. Betty in my fist directory. This script moves the file betty from /tmp/ to /tmp/my_first_directory.
 Task 8. Bye bye Betty. This script removes the file Betty.
 Task 9. Bye bye My first directory. This script removes the my_first_directory.
+Task 10. Back to the future. This script changes the working directory to the previous one.
 
