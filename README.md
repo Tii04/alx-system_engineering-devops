@@ -6,4 +6,5 @@ Task 4. Hidden files. This script prints all the current directory's contents, i
 Task 5. I love numbers. This script print the current directory's contents.
 Task 6. Welcome. This script creates a directory named my_first_directory in the /tmp/ directory.
 Task 7. Betty in my fist directory. This script moves the file betty from /tmp/ to /tmp/my_first_directory.
+Task 8. Bye bye Betty. This script removes the file Betty.
 
