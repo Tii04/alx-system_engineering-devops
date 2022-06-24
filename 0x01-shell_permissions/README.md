@@ -10,4 +10,5 @@ Task 8. Writes a script that sets the permission to the file hello where only ot
 Task 9. Writes a script that sets the mode of the file hello to what is specified.
 Task 10. Writes a script that sets the mode of the file hello the same as olleh’s mode.
 Task 11. Creates a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+Task 12. Creates script that creates directory with specified permissions.
 
