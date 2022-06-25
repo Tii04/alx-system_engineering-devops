@@ -12,4 +12,5 @@ Task 10. Writes a script that sets the mode of the file hello the same as ollehâ
 Task 11. Creates a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 Task 12. Creates script that creates directory with specified permissions.
 Task 13. Writes a script that changes the group owner to school for the file hello.
+Task 14. Writes a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
