@@ -15,4 +15,5 @@ Task 13. Creates a script that takes a list of words as input then ptints only w
 Task 14. Displays lines containing the pattern “root” from the file /etc/passwd. 
 Task 15. Displays the number of lines that contain the pattern “bin” in the file /etc/passwd. 
 Task 16. Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd. 
+Task 17. Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”. 
 
