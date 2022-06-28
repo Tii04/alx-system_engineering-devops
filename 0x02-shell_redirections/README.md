@@ -19,4 +19,4 @@ Task 17. Displays all the lines in the file /etc/passwd that do not contain the 
 Task 18. Displays all lines of the file /etc/ssh/sshd_config starting with a letter. 
 Task 19. Replaces all characters A and c from input to Z and e respectively. 
 Task 20. Creates a script that removes all letters c and C from input. 
-
+Task 21. Reverses input. 
