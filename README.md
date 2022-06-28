@@ -15,3 +15,6 @@ Task 13. Creates a symbolic link to /bin/ls, named __ls__
 Task 14. Creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 Task 15. Moves all files beginning with capital letter to /tmp/u.
 Task 16. Deletes all files ending with ~ in the current directory.
+Task 17. Creates a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Task 18. Writes a command that lists all the files and directories of the current directory, separated by commas.
+ 
