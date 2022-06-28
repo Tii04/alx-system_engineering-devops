@@ -12,4 +12,5 @@ Task 10. Writes a script that deletes all the regular files (not the directories
 Task 11. Writes a script that counts the number of directories and sub-directories in the current directory.
 Task 12. Creates a script that displays the 10 newest files in the current directory.
 Task 13. Creates a script that takes a list of words as input then ptints only words that appear once. 
-
+Task 14. Displays lines containing the pattern “root” from the file /etc/passwd. 
+Task 15.
