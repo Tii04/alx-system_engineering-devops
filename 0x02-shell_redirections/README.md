@@ -11,3 +11,5 @@ Task 9. Writes a script that duplicates the last line of the file iacta.
 Task 10. Writes a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 Task 11. Writes a script that counts the number of directories and sub-directories in the current directory.
 Task 12. Creates a script that displays the 10 newest files in the current directory.
+Task 13. Creates a script that takes a list of words as input then ptints only words that appear once. 
+
