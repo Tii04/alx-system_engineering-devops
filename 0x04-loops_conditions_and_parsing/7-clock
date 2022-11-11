@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#Script that counts until the 12th hour 59th minute.
+
+hour=0
+
+while ((hour <= 12))
+do 
+	echo "Hour: $hour"
+	
+	minute=1
+
+	while ((minute <= 59))
+	do 
+		echo "$minute"
+		((minute++))
+	done
+
+	((hour++))
+done
+	
