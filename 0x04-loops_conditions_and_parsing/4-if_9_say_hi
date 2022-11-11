@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#Script that prints "Best school" * 10, and prints
+#+ Hi, Best School on the ninth time.
+
+i=1
+
+while ((i < 10))
+do
+	if ((i == 9))
+	then
+		echo "Hi"
+
+	fi
+		echo "Best School"
+		((i++))
+done
