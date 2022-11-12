@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Script that prints "To infinity and beyond" indefinitely.
+
+i=0
+while ((i == 0))
+do
+	echo "To ifinity and beyond"
+done
