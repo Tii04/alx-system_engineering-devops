@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Script that prints all active IPv4 IPs
+
+ifconfig -a | grep "inet addr" | cut -d " " -f12 | cut -d ":" -f2.
