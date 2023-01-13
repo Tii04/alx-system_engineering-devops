@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#This script takes on the role of config file.
+
+Host 100.25.164.50
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
